@@ -1,7 +1,7 @@
 <?php
 // Google Sheets API configuration
 $sheetID = "1ywCwy_bDolWM1gV_NcCTby2-CmuEZnWHyLTFV58DFmQ"; // Replace with your actual Sheet ID
-$apiKey = "AIzaSyBzQ0cRTrbf_vxrB75nh8AoV3BtawPiiCQ"; // Replace with your API Key
+$apiKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; // Replace with your API Key
 $apiURL = "https://sheets.googleapis.com/v4/spreadsheets/$sheetID/values/Sheet1?key=$apiKey";
 
 $rows_count = 8; // Number of rows to be displayed
