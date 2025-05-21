@@ -28,7 +28,7 @@ The long string between  `/d/`  and  `/edit`  is your Sheet ID (in this example:
 Replace these values in the code:
 
 ```
-$sheetID = "1ywCwy_bDolWM1gV_NcCTby2-CmuEZnWHyLTFV58DFmQ"; // Your Sheet ID
+$sheetID = "BmzaSyBzQ0cRTrbf_vxrB75nh8AoV3BtawPiiCQ"; // Your Sheet ID
 $apiKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"; // Your API Key
 $rows_count = 8; // Number of rows to display
 ```
