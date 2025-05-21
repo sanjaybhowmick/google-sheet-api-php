@@ -10,7 +10,7 @@ This documentation explains how to use the provided PHP code to fetch data from 
 
 https://docs.google.com/spreadsheets/d/BmzaSyBzQ0cRTrbf_vxrB75nh8AoV3BtawPiiCQ/edit#gid=0
 
-The long string between  `/d/`  and  `/edit`  is your Sheet ID (in this example:  `1ywCwy_bDolWM1gV_NcCTby2-CmuEZnWHyLTFV58DFmQ`)
+The long string between  `/d/`  and  `/edit`  is your Sheet ID (in this example:  `BmzaSyBzQ0cRTrbf_vxrB75nh8AoV3BtawPiiCQ`)
 
 #### 2. Create a Google API Key
 
@@ -20,7 +20,7 @@ The long string between  `/d/`  and  `/edit`  is your Sheet ID (in this example:
 4.  Search for “Google Sheets API” and enable it
 5.  Go to “APIs & Services” > “Credentials”
 6.  Click “Create Credentials” and select “API key”
-7.  Copy your new API key (it will look like:  `BmzaSyBzQ0cRTrbf_vxrB75nh8AoV3BtawPiiCQ`)
+7.  Copy your new API key
 8.  (Optional) Restrict the API key to only work with the Sheets API for security
 
 #### 3. Configure the PHP Code
